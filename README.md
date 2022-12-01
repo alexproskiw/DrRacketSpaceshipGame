@@ -1,5 +1,5 @@
 # Dr.Racket Spaceship Game
-Fly a Spaceship through a Cave!
+Fly a spaceship through a cave!
 
 Welcome to my first program (that isn't just coding homework assignments).
 
@@ -13,3 +13,6 @@ To play the game:
 - Difficulty gradually increases over 4 levels, each 1,500 km long. Each new level results in the cave getting narrower and harder to navigate.
 
 Some screenshots are below including the start of the game, part way though the game, collision, and game completion.
+
+References:
+- Spaceship image obtained from https://icons8.com/icon/cfZaGYwG3rar/spaceship
