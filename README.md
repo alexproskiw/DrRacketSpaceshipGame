@@ -1,4 +1,4 @@
-# DrRacketSpaceshipGame
+# Dr.Racket Spaceship Game
 Fly a Spaceship through a Cave!
 
 Welcome to my first program (that isn't just coding homework assignments).
