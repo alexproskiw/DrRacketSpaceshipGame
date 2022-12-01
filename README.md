@@ -8,14 +8,14 @@ This was built from scratch using concepts I learned in my first computer scienc
 Key concepts utilized include: representing an object with changing position and speed variables; generating and filtering lists; collision detection; managing keyboard inputs; and displaying changing information (distance travelled, level info, etc.).
 
 ## To play the game:
-- Open the "Spaceship Game.rkt" in Dr. Racket
-- Run the program and execute "(main G1)" in the interactions window
+- Open the file named "Spaceship Game.rkt" in Dr. Racket
+- Run the program and execute <(main G1)> in the interactions window
 - Once the game has started, use the up and down arrow keys to control your ship. Don't touch the walls of the cave!
 - Difficulty gradually increases over 4 levels. Each new level results in the cave getting narrower and harder to navigate.
 - The game is over once you reach the end of level 4.
 
 ## Images:  
-Some screenshots are included below including playing the game, colliding with the cave, and completing thegame.
+Some screenshots are included below including playing the game, colliding with the cave, and completing the game.
 
 | Game Status  | Image |
 | ------------ | ------|
