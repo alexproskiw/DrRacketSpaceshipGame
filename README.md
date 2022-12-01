@@ -1,7 +1,7 @@
 # Dr.Racket Spaceship Game
 Fly a spaceship through a cave!
 
-**Intro**
+**Intro:**
 Welcome to my first program (that isn't just coding homework assignments).
 
 This was built from scratch using concepts I learned in my first computer science course at UBC (CPSC 110) which uses the Racket language. 
