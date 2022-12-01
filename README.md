@@ -1,4 +1,4 @@
-# Dr.Racket Spaceship Game
+# Dr. Racket Spaceship Game
 Fly a spaceship through a cave!
 
 ## Intro: 
