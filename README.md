@@ -5,7 +5,7 @@ Fly a spaceship through a cave!
 Welcome to my first program (that isn't just coding homework assignments).
 
 This was built from scratch using concepts I learned in my first computer science course at UBC (CPSC 110) which uses the Racket language. 
-Key concepts utilized include: representing an object with changing position and speed variables; generating and filtering lists; collision detection; managing keyboard inputs, and displaying changing information (distance, level info, etc.).
+Key concepts utilized include: representing an object with changing position and speed variables; generating and filtering lists; collision detection; managing keyboard inputs; and displaying changing information (distance travelled, level info, etc.).
 
 ## To play the game:
 - Open the "Spaceship Game.rkt" in Dr. Racket
