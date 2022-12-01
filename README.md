@@ -12,9 +12,10 @@ Key concepts utilized include: representing an object with changing position and
 - Run the program and execute "(main G1)" in the interactions window
 - Once the game has started, use the up and down arrow keys to control your ship. Don't touch the walls of the cave!
 - Difficulty gradually increases over 4 levels. Each new level results in the cave getting narrower and harder to navigate.
+- The game is over once you reach the end of level 4.
 
 ## Images:  
-Some screenshots are below including the start of the game, part way though the game, collision, and game completion.
+Some screenshots are included below including playing the game, colliding with the cave, and completing thegame.
 
 | Game Status  | Image |
 | ------------ | ------|
