@@ -18,9 +18,9 @@ Some screenshots are below including the start of the game, part way though the 
 
 | Game Status  | Image |
 | ------------ | ------|
-| In Progress | [img src="/repository/images/Game In Progress.png" alt="Game in Progress" title="Game in Progress title"](https://github.com/alexproskiw/DrRacketSpaceshipGame/blob/main/Images/Game%20In%20Progress.png)  |
-| Collision   | [https://github.com/alexproskiw/DrRacketSpaceshipGame/blob/main/Images/Collision%20Screen.png](https://github.com/alexproskiw/DrRacketSpaceshipGame/blob/main/Images/Collision%20Screen.png)  |
-| Completion  | [img src="/repository/images/Completion Screen.png" alt="Completion Screen" title="Completion Screen title"](https://github.com/alexproskiw/DrRacketSpaceshipGame/blob/main/Images/Completion%20Screen.png)  |
+| In Progress | ![img src="/repository/images/Game In Progress.png" alt="Game in Progress" title="Game in Progress title"](https://github.com/alexproskiw/DrRacketSpaceshipGame/blob/main/Images/Game%20In%20Progress.png)  |
+| Collision   | ![https://github.com/alexproskiw/DrRacketSpaceshipGame/blob/main/Images/Collision%20Screen.png](https://github.com/alexproskiw/DrRacketSpaceshipGame/blob/main/Images/Collision%20Screen.png)  |
+| Completion  | ![img src="/repository/images/Completion Screen.png" alt="Completion Screen" title="Completion Screen title"](https://github.com/alexproskiw/DrRacketSpaceshipGame/blob/main/Images/Completion%20Screen.png)  |
 
 
 ## References:  
